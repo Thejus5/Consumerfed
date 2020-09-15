@@ -1,0 +1,437 @@
+#Login
+
+{
+    "full_name":"John Smith",
+    "email":"johnsmith@yahoo.com",
+    "mobile":"+919876543201",
+    "delevery_address":{
+        "type":"home",
+        "pincode":"692587",
+        "house_no":"52",
+        "address":"221B Baker Street",
+        "city":"Trivandrum",
+        "state":"Kerala"
+    }
+}
+
+#Featured Products
+
+{
+    "product_one":{
+        "title":"Tulsi California Almond Premium, 200g",
+        "image":"images/tulsi.png",
+        "price1":150,
+        "pack_size":{
+            "amound1":190.5,
+            "weight1":100.5,
+            "amound2":290.5,
+            "weight2":200.5
+        }
+    },
+    
+    "product_two":{
+        "title":"Tulsi California Almond Premium, 200g",
+        "image":"images/tulsi.png",
+        "price1":150,
+        "pack_size":{
+            "amound1":190.5,
+            "weight1":100.5,
+            "amound2":290.5,
+            "weight2":200.5
+        }
+    },
+    
+    "product_three":{
+        "title":"Tulsi California Almond Premium, 200g",
+        "image":"images/tulsi.png",
+        "price1":150,
+        "pack_size":{
+            "amound1":190.5,
+            "weight1":100.5,
+            "amound2":290.5,
+            "weight2":200.5
+        }
+    }
+    
+}
+
+
+
+#Fruits and vegitables
+
+{
+    "fruitsAndVeg_one":{
+        "image":"images/bellpepper.png",
+        "name":"Bell Pepper",
+        "striked_price":120,
+        "price":80
+    },
+    
+    "fruitsAndVeg_two":{
+        "image":"images/strawberry.png",
+        "name":"Strawberry",
+        "striked_price":null,
+        "price":120
+    },
+    
+    "fruitsAndVeg_three":{
+        "image":"images/greenbean.png",
+        "name":"Green Bean",
+        "striked_price":null,
+        "price":120
+    },
+    
+    "fruitsAndVeg_four":{
+        "image":"images/purplecabbage.png",
+        "name":"Purple Cabbage",
+        "striked_price":null,
+        "price":120
+    },
+    
+    "fruitsAndVeg_five":{
+        "image":"images/tomatoe.png",
+        "name":"Tomatoe",
+        "striked_price":120,
+        "price":80
+    },
+    
+    "fruitsAndVeg_six":{
+        "image":"images/brocolli.png",
+        "name":"Brocolli",
+        "striked_price":null,
+        "price":120
+    },
+    
+    "fruitsAndVeg_seven":{
+        "image":"images/carrots.png",
+        "name":"Carrots",
+        "striked_price":null,
+        "price":120
+    },
+    
+    "fruitsAndVeg_eight":{
+        "image":"images/juice.png",
+        "name":"Fruit Juice",
+        "striked_price":null,
+        "price":120
+    }
+}
+
+
+# Brands
+
+{
+    "brand_1":{ "logo":"images/ashirwad.png"},
+    "brand_2":{ "logo":"images/amul.png"},
+    "brand_3":{ "logo":"images/colgate.png"},
+    "brand_4":{ "logo":"images/dove.png"},
+    "brand_5":{ "logo":"images/indiagate.png"},
+    "brand_6":{ "logo":"images/lifeboy.png"},
+    "brand_7":{ "logo":"images/nirapara.png"}
+}
+
+
+# Home Appliances
+
+{
+    "appliance_1":{
+        "image":"images/samsungtv.png",
+        "name":"SAMSUNG LED TV",
+        "striked_price":1200.00,
+        "price":8000.00
+    },
+    
+    "appliance_2":{
+        "image":"images/IFB.png",
+        "name":"ifb",
+        "striked_price":null,
+        "price":14000.00
+    },
+    
+    "appliance_3":{
+        "image":"images/whirlpool.png",
+        "name":"WHIRLPOOL",
+        "striked_price":null,
+        "price":2000.00
+    },
+    
+    "appliance_4":{
+        "image":"images/philips.png",
+        "name":"PHILIPS",
+        "striked_price":null,
+        "price":5000.00
+    },
+    
+     "appliance_5":{
+        "image":"images/vguard.png",
+        "name":"V GUARD",
+        "striked_price":2500.00,
+        "price":1650.00
+    },
+    
+     "appliance_6":{
+        "image":"images/whirlpool2.png",
+        "name":"WHIRLPOOL",
+        "striked_price":null,
+        "price":32000.00
+    },
+    
+     "appliance_7":{
+        "image":"images/national.png",
+        "name":"NATIONAL",
+        "striked_price":null,
+        "price":1200.00
+    },
+    
+     "appliance_8":{
+        "image":"images/butterflyMixer.png",
+        "name":"BUTTERFLY MIXER GRINDER",
+        "striked_price":null,
+        "price":200.00
+    }
+}
+
+
+
+# Snacks and branded food
+
+{
+    "snack_1":{
+        "image":"images/item1.png",
+        "title":"Tulsi California Almond Premium, 200g"
+    },
+    
+    "snack_2":{
+        "image":"images/item2.png",
+        "title":"Tulsi California Almond Premium, 200g"
+    },
+    
+    "snack_3":{
+        "image":"images/item3.png",
+        "title":"Tulsi California Almond Premium, 200g"
+    },
+    
+    "snack_4":{
+        "image":"images/item4.png",
+        "title":"Tulsi California Almond Premium, 200g"
+    },
+    
+    "snack_5":{
+        "image":"images/item5.png",
+        "title":"Tulsi California Almond Premium, 200g"
+    },
+    
+    "snack_6":{
+        "image":"images/item6.png",
+        "title":"Tulsi California Almond Premium, 200g"
+    },
+    
+    "snack_7":{
+        "image":"images/item7.png",
+        "title":"Tulsi California Almond Premium, 200g"
+    },
+}
+
+
+# Subscription email
+
+{ "email":"johnsmith@yahoo.com" }
+
+
+# Top Slider
+
+{
+    "image_1":"images/bannerImg1.png",
+    "image_2":"images/bannerImg2.png"
+}
+
+
+# Shop by catagory
+
+{
+    "shop_ul_1":{
+        
+        "name":"Fruits & Vegetables",
+        "dropdown":{
+            
+            "shop_li_1":{
+                "name":"Herbs",
+                "dropdown":{
+                    
+                    "sub_li_1":{
+                        "name":"Lemon",
+                        "dropdown":null
+                    },
+                    "sub_li_2":{
+                        "name":"Ginger",
+                        "dropdown":null
+                    }
+                }
+            },
+            
+            "shop_li_2":{
+                "name":"Fresh Fruit",
+                "dropdown":null
+            },
+            
+            "shop_li_3":{
+                "name":"organic",
+                "dropdown":null
+            },
+            
+            "shop_li_4":{
+                "name":"Exotic",
+                "dropdown":null
+            },
+            
+            "shop_li_5":{
+                "name":"Cuts",
+                "dropdown":null
+            }
+            
+        }
+    },
+    
+    "shop_ul_2":{
+        "name":"Milk & Milk Products",
+        "dropdown":{
+            
+            "shop_li_1":{
+                "name":"Herbs",
+                "dropdown":null
+            },
+            
+            "shop_li_2":{
+                "name":"Fresh Fruit",
+                "dropdown":null
+            },
+            
+            "shop_li_3":{
+                "name":"organic",
+                "dropdown":null
+            },
+            
+            "shop_li_4":{
+                "name":"Exotic",
+                "dropdown":null
+            },
+            
+            "shop_li_5":{
+                "name":"Cuts",
+                "dropdown":null
+            },
+        }
+    },
+    
+    "shop_ul_3":{
+        "name":"Egg & Egg Products",
+        "dropdown":null
+    },
+    
+    "shop_ul_4":{
+        "name":"Bread & Bakery",
+        "dropdown":{
+            
+            "shop_li_1":{
+                "name":"Bread",
+                "dropdown":null
+            },
+            
+            "shop_li_2":{
+                "name":"Bread",
+                "dropdown":null
+            },
+            
+            "shop_li_3":{
+                "name":"Bread",
+                "dropdown":null
+            },
+            
+            "shop_li_4":{
+                "name":"Bread",
+                "dropdown":null
+            },
+            
+            "shop_li_5":{
+                "name":"Bread",
+                "dropdown":null
+            }
+            
+        }
+    },
+    
+    "shop_ul_5":{
+        "name":"Fruits & Vegetables",
+        "dropdown":{
+            
+            "shop_li_1":{
+                "name":"Orange",
+                "dropdown":null
+            },
+            
+            "shop_li_2":{
+                "name":"Orange",
+                "dropdown":null
+            },
+            
+            "shop_li_3":{
+                "name":"Orange",
+                "dropdown":null
+            },
+            
+            "shop_li_4":{
+                "name":"Orange",
+                "dropdown":null
+            },
+            
+            "shop_li_5":{
+                "name":"Orange",
+                "dropdown":{
+                    
+                    "sub_li_1":{
+                        "name":"Orange",
+                        "dropdown":null
+                    },
+                    
+                     "sub_li_2":{
+                        "name":"Orange",
+                        "dropdown":null
+                    },
+                    
+                     "sub_li_3":{
+                        "name":"Orange",
+                        "dropdown":null
+                    },
+                }
+            }
+        }
+    },
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
