@@ -1,3 +1,5 @@
+####################   From Frontend to Back end ##################################
+
 #Login
 
 {
@@ -13,6 +15,30 @@
         "state":"Kerala"
     }
 }
+
+# Subscription email
+
+{ "email":"johnsmith@yahoo.com" }
+
+
+# Select your location
+
+{
+    "city":"cityName",
+    "pin_apartment_no":"735"
+}
+
+
+# Select your location
+
+{
+    "city_1":"1",
+    "city_2":"2",
+    "city_3":"3",
+    "city_4":"4"
+}
+
+####################   From backend to Front end ##################################
 
 #Featured Products
 
@@ -232,10 +258,6 @@
     },
 }
 
-
-# Subscription email
-
-{ "email":"johnsmith@yahoo.com" }
 
 
 # Top Slider
