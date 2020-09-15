@@ -319,7 +319,7 @@
             "shop_li_5":{
                 "name":"Cuts",
                 "dropdown":null
-            },
+            }
         }
     },
     
@@ -401,11 +401,11 @@
                      "sub_li_3":{
                         "name":"Orange",
                         "dropdown":null
-                    },
+                    }
                 }
             }
         }
-    },
+    }
 }
 
 
